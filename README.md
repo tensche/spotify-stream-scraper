@@ -7,7 +7,7 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://s6.gifyu.com/images/S4Jfv.gif" alt="project-screenshot" width="700" height="400/">
-Artist used: [ASCHE](https://open.spotify.com/artist/4422XPmmt7lJGKjYbYSI6B)
+Artist used [https://open.spotify.com/intl-de/artist/4422XPmmt7lJGKjYbYSI6B](https://open.spotify.com/intl-de/artist/4422XPmmt7lJGKjYbYSI6B)
   
   
 <h2>🧐 Features</h2>
@@ -52,4 +52,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 - E-Mail contact@tenschi.de
 - Telegram [@Tenschi](https://t.me/tenschi)
 
-Project Link: [https://github.com/tensche/jugendwort-voter](https://github.com/tensche/jugendwort-voter)
+Project Link: [https://github.com/tensche/spotify-stream-scraper](https://github.com/tensche/spotify-stream-scraper)
