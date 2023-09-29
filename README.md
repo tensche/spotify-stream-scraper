@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Spotify Streams Scraper</h1>
 
-<p id="description">With this code using the Spotify ID you can scrape the streams of all songs and albums of an artist.</p>
+<p id="description">With this code you can scrape the streams of all songs and albums of an artist. (using the Spotify ID)</p>
 
 <h2>🚀 Demo</h2>
 
