@@ -4,8 +4,6 @@
 
 <h2>🚀 Demo</h2>
 
-<h2>Project Screenshots:</h2>
-
 <img src="https://s6.gifyu.com/images/S4Jfv.gif" alt="project-screenshot" width="700" height="400/">
 Artist used: (Asche) https://open.spotify.com/intl-de/artist/4422XPmmt7lJGKjYbYSI6B
   
